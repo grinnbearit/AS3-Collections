@@ -1,0 +1,3 @@
+Since AS3 does not provide a good collections framework (especially for game design)
+
+Here's a collections framework (with unit tests) drawing inspiration from both the java collections framework as well as the clojure sequence library
